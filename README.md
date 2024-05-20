@@ -50,4 +50,5 @@ You can then think about the parameter settings that really show your improvemen
         - Show your improvement using graphs
     - Your benchmark parameters
     - Analysis on the results of the experiments
-
+ 
+  P.s It was version controlled in gitlab before, however no commits are transferred
