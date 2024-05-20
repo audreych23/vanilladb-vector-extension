@@ -50,6 +50,10 @@ You can then think about the parameter settings that really show your improvemen
         - Show your improvement using graphs
     - Your benchmark parameters
     - Analysis on the results of the experiments
+<<<<<<< HEAD
 
 ## Reference Paper
 https://dl.acm.org/doi/pdf/10.1145/3318464.3386131
+
+P.s This project was version controlled in gitlab before, however no commits are transferred
+
